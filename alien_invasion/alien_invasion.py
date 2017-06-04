@@ -10,6 +10,7 @@ def run_game():
 	
 	"""初始化游戏并创建一个屏幕对象"""
 	pygame.init()
+	#注意这一句：from settings import Settings 并赋给ai_settings
 	ai_settings = Settings()
 	screen = pygame.display.set_mode(
 		(ai_settings.screen_width,ai_settings.screen_height))
@@ -20,22 +21,9 @@ def run_game():
 	
 	#开始游戏的循环
 	while True:
-		
-		##监视键盘和鼠标事件
-		#for event in pygame.event.get():
-			#if event.type == pygame.QUIT:
-				#sys.exit()
-		gf.check_events(ai_settings,screen,ship,bullets)
-		ship.update()
-		bullets.update()
-		gf.update_screen(ai_settings,screen,ship,bullets)
-		
-		##每次循环时都将重绘屏幕
-		##screen.fill(bg_color)
-		#screen.fill(ai_settings.bg_color)
-		#ship.blitme()
-		
-		##让最近绘制的屏幕可见
-		#pygame.display.flip()
+		gf.check_events(ai_settings,screen,ship,bullets)#检查玩家的输入
+		ship.update()#更新飞船的位置
+		gf.update_bullets(bullets)#更新所有未消失的子弹的位置
+		gf.update_screen(ai_settings,screen,ship,bullets)#使用更新后的位置来绘制新屏幕
 
 run_game()
