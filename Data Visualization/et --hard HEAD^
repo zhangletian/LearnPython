@@ -1,0 +1,233 @@
+[33mcommit 884db394372ec0273007c24d725c01ba04026b4c[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed Jun 14 00:21:17 2017 +0800
+
+    改进Pygal图标
+
+[33mcommit b5e84a758578ddd3a724b06af58dd661a77fd985[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Tue Jun 13 23:59:02 2017 +0800
+
+    使用Pygal可视化仓库
+
+[33mcommit 141e795fe210f510f43675fb97a5965a3177663f[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Tue Jun 13 23:51:54 2017 +0800
+
+    使用Pygal可视化仓库
+
+[33mcommit 98e8dfdd4544dd1f6d9cbbbcc4b04c2d5f792268[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Tue Jun 13 23:32:55 2017 +0800
+
+    使用API
+
+[33mcommit c5d220a77810f88a7dc8031666544705150c8689[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Mon Jun 12 23:33:36 2017 +0800
+
+    使用Web API
+
+[33mcommit 4ea2cd1fe6c5f33036700f3cc9ae8c6537a736ea[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Mon Jun 12 23:01:14 2017 +0800
+
+    加亮颜色主题
+
+[33mcommit fe9f8b349efbee68c5667edff6e539386efc7cc1[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Mon Jun 12 22:28:39 2017 +0800
+
+    绘制完整的世界人口地图
+
+[33mcommit 216b72921bdd34b76d2b4d37fc7061b32b30d42f[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sun Jun 11 00:34:43 2017 +0800
+
+    制作世界人口地图
+
+[33mcommit 28c1f8c87bcd00da1f3e6f6daf36d48c89020983[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sun Jun 11 00:26:21 2017 +0800
+
+    制作世界人口地图
+
+[33mcommit 9fc0c43f6249d465c80affc7793149fe1a3f7e57[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sat Jun 10 23:35:36 2017 +0800
+
+    错误检查
+
+[33mcommit 39a62e2fb69f7e10c0358898cf3661b820cb3d4f[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sat Jun 10 23:27:55 2017 +0800
+
+    下载数据
+
+[33mcommit 7ed9f47bbb23bb6603536624b2e6e861f4b7b15a[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sat Jun 10 22:58:02 2017 +0800
+
+    下载数据
+
+[33mcommit e411eaef56e84bd141c4fc57d410fbb2fd690041[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sat Jun 10 22:45:51 2017 +0800
+
+    下载数据
+
+[33mcommit e4b22c475cdd59698e94b3bbc600e042c83137e3[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Fri Jun 9 23:58:48 2017 +0800
+
+    下载数据
+
+[33mcommit 7c415a257d826fe0e6cf148b7fc1050182024a34[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Fri Jun 9 00:14:29 2017 +0800
+
+    绘制气温图表
+
+[33mcommit e17f6e6e73e45b0cf4a5dd88799349ba4491037f[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Thu Jun 8 23:53:34 2017 +0800
+
+    下载数据
+
+[33mcommit 57d9bb6702fe3645aa8c571d5aef6cc12b1d9630[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Thu Jun 8 23:15:37 2017 +0800
+
+    掷骰子
+
+[33mcommit 50d4eae5aabc4635ad2a9d5760af29f3b9a5b457[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Thu Jun 8 22:59:20 2017 +0800
+
+    掷骰子
+
+[33mcommit eb59629ff74b00ef453dffdff884b05245ec43ef[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Thu Jun 8 22:36:58 2017 +0800
+
+    调整尺寸以适合屏幕
+
+[33mcommit 85254a74df261a10dc4a1f09afd5c2face50022c[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed Jun 7 23:54:38 2017 +0800
+
+    隐藏坐标轴
+
+[33mcommit 1edd70edbdfe699a25e974e6547e8aa28555ee21[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed Jun 7 23:51:56 2017 +0800
+
+    重新绘制起点和终点
+
+[33mcommit ee4f8c0392e0b30aafe9d06345cf85bab8f916f2[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed Jun 7 23:28:17 2017 +0800
+
+    数据可视化学习
+
+[33mcommit ab8b2c3af3ab6dd8f77979c1ede057202f671e3c[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed Jun 7 22:38:28 2017 +0800
+
+    数据可视化学习
+
+[33mcommit e1c530af5deb3aad294cbc2ad5fb9e38677cc6b0[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Mon Jun 5 00:49:42 2017 +0800
+
+    数据可视化学习
+
+[33mcommit 49614b1945652a95f3cfd8720164b7cf417e0608[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Mon Jun 5 00:08:26 2017 +0800
+
+    数据可视化学习
+
+[33mcommit 2fa61ce185b2634095e1c0e98965ab4a7a49307a[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sun Jun 4 23:42:15 2017 +0800
+
+    数据可视化学习
+
+[33mcommit 6fc9b0e2fd1e8490a68bea492a612a03eec4c241[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sun Jun 4 23:35:38 2017 +0800
+
+    增加对子弹的管理
+
+[33mcommit 4cf3387b1d507b9f087861c98c34a80935b8ff6c[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sat Jun 3 23:58:00 2017 +0800
+
+    日常学习
+
+[33mcommit 505dcae2a58aa34f2f3196ab08f79c09352961b1[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Thu Jun 1 23:39:35 2017 +0800
+
+    增加了bullet
+
+[33mcommit 7196f86a8e32dea70fa9bcd7c8af338842e80191[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Thu Jun 1 22:01:37 2017 +0800
+
+    日常打卡
+
+[33mcommit 6b2f111c763bc296d5ff001edcf4f60aa998eca2[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed May 31 16:17:30 2017 +0800
+
+    alien invasion
+
+[33mcommit dd810c9dec25eb0dc1f2042928954ea207b38182[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed May 31 10:51:44 2017 +0800
+
+    TestCase
+
+[33mcommit c4055c7d80cb9a4fbc0fd8b3462e279a9cff917d[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed May 31 09:20:55 2017 +0800
+
+    test_cities.py,city_functions.py
+
+[33mcommit f7cd5f602df7d64027d2cb674cfa526add97bb11[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed May 31 07:57:28 2017 +0800
+
+    test_name_function
+
+[33mcommit a7acfd70061cc29fe8c4b05279f348002ed95a8d[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Wed May 31 07:25:10 2017 +0800
+
+    test_name_function
+
+[33mcommit 7f5fd58bf50ba97459bab662577ec3cf2bab0247[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sun May 28 17:41:00 2017 +0800
+
+    Remember_me
+
+[33mcommit 2badace1e05c65b551368129d43984cc6f540f67[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sun May 28 15:42:14 2017 +0800
+
+    Count.py
+
+[33mcommit 1b0b3836d4b148c222f49f6776d990eecc095573[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sun May 28 10:12:14 2017 +0800
+
+    reader and writer
+
+[33mcommit 02692db18d2960a1e48b1e9b5140b9a259ddf5b3[m
+Author: zhangletian <1007174589@qq.com>
+Date:   Sun May 28 07:44:29 2017 +0800
+
+    Car.py
