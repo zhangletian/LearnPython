@@ -7,6 +7,6 @@ for ch in bStr[:]:
 print(count)
 print('Punctuation marks = ',count)
 if count >= 2:
-	print('There are ' + str(count) + ' punctuation marks')
+	print('There are ' + str(count) + ' punctuation marks.')
 elif count < 2:
-	print('There is ' + str(count) + 'punctuation mark')
+	print('There is ' + str(count) + 'punctuation mark.')
