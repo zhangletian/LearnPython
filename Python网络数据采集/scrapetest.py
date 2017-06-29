@@ -38,3 +38,4 @@ nameList = getNameList(url)
 
 #http://www.pythonscraping.com/pages/page1.html
 #http://www.pythonscraping.com/pages/warandpeace.html
+#http://www.pythonscraping.com/pages/page3.html
