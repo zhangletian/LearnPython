@@ -25,7 +25,6 @@ class DouBanSpider(object) :
 
     def get_page(self, cur_page) :
         """
-
         根据当前页码爬取网页HTML
 
         Args: 
@@ -44,9 +43,7 @@ class DouBanSpider(object) :
 
     def find_title(self, my_page) :
         """
-
         通过返回的整个网页HTML, 正则匹配前250的电影名称
-
 
         Args:
             my_page: 传入页面的HTML文本用于正则匹配
@@ -61,7 +58,6 @@ class DouBanSpider(object) :
 
     def start_spider(self) :
         """
-
         爬虫入口, 并控制爬虫抓取页面的范围
         """
         while self.page <= 10 :
@@ -69,11 +65,13 @@ class DouBanSpider(object) :
             self.find_title(my_page)
             self.page += 1
 
-def main() :
+def main():
     my_spider = DouBanSpider()
     my_spider.start_spider()
-    for item in my_spider.datas :
-        print(item)
+    filename = 'DoubanMovies250.txt'
+    with open (filename,'w') as file_object:
+        for item in my_spider.datas :
+            file_object.write(item + '\n')
     print("豆瓣爬虫爬取结束...")
 
 if __name__ == '__main__':
