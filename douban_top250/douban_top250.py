@@ -19,7 +19,7 @@ def process_data():
 	with open('data/movies.csv', 'w') as movie_csv:
 		print('rank,title,ratings,rating_num,meta', file=movie_csv)
 		for start in range(0, 250, 25):
-			doc = open('data/raw/movie_{start}'.format(**locals())).read()
+			doc = open('data/raw/movie_{start}'.format(**locals())).read().decode("utf-8")
 			tree = etree.HTML(doc)
 			titles = tree.xpath("/html/body//ol//a/span[1][@class='title']")
 			ratings = tree.xpath("//span[@class='rating_num']")
@@ -34,7 +34,7 @@ def process_data():
 	with open('data/books.csv', 'w') as book_csv:
 		print('rank,title,ratings,rating_num,meta', file=book_csv)
 		for start in range(0, 250, 25):
-			doc = open('data/raw/book_{start}'.format(**locals())).read()
+			doc = open('data/raw/book_{start}'.format(**locals())).read().decode("utf-8")
 			tree = etree.HTML(doc)
 			titles = tree.xpath('//a[@title]')
 			ratings = tree.xpath("//span[@class='rating_nums']")

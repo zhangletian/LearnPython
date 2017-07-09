@@ -324,7 +324,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.8</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>95329人评价</span>
+                                <span>95362人评价</span>
                         </div>
 
                             <p class="quote">
@@ -363,7 +363,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.7</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>122763人评价</span>
+                                <span>122843人评价</span>
                         </div>
 
                             <p class="quote">
@@ -402,7 +402,7 @@
                                 <span class="rating4-t"></span>
                                 <span class="rating_num" property="v:average">8.4</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>260278人评价</span>
+                                <span>260329人评价</span>
                         </div>
 
                             <p class="quote">
@@ -441,7 +441,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.7</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>158846人评价</span>
+                                <span>158935人评价</span>
                         </div>
 
                             <p class="quote">
@@ -481,7 +481,7 @@
                                 <span class="rating4-t"></span>
                                 <span class="rating_num" property="v:average">8.4</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>254356人评价</span>
+                                <span>254424人评价</span>
                         </div>
 
                             <p class="quote">
@@ -521,7 +521,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.6</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>256385人评价</span>
+                                <span>256467人评价</span>
                         </div>
 
                             <p class="quote">
@@ -560,7 +560,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.5</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>229087人评价</span>
+                                <span>229186人评价</span>
                         </div>
 
                             <p class="quote">
@@ -600,7 +600,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.6</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>165554人评价</span>
+                                <span>165599人评价</span>
                         </div>
 
                             <p class="quote">
@@ -614,45 +614,6 @@
             <div class="item">
                 <div class="pic">
                     <em class="">159</em>
-                    <a href="https://movie.douban.com/subject/1397546/">
-                        <img alt="追随" src="https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1150103377.jpg" class="">
-                    </a>
-                </div>
-                <div class="info">
-                    <div class="hd">
-                        <a href="https://movie.douban.com/subject/1397546/" class="">
-                            <span class="title">追随</span>
-                                    <span class="title">&nbsp;/&nbsp;Following</span>
-                                <span class="other">&nbsp;/&nbsp;致命追踪  /  跟踪</span>
-                        </a>
-
-
-                    </div>
-                    <div class="bd">
-                        <p class="">
-                            导演: 克里斯托弗·诺兰 Christopher Nolan&nbsp;&nbsp;&nbsp;主演: 杰里米·西奥伯德 Jeremy...<br>
-                            1998&nbsp;/&nbsp;英国&nbsp;/&nbsp;犯罪 悬疑 惊悚
-                        </p>
-
-                        
-                        <div class="star">
-                                <span class="rating45-t"></span>
-                                <span class="rating_num" property="v:average">8.9</span>
-                                <span property="v:best" content="10.0"></span>
-                                <span>74668人评价</span>
-                        </div>
-
-                            <p class="quote">
-                                <span class="inq">诺兰的牛逼来源于内心散发出的恐惧。</span>
-                            </p>
-                    </div>
-                </div>
-            </div>
-        </li>
-        <li>
-            <div class="item">
-                <div class="pic">
-                    <em class="">160</em>
                     <a href="https://movie.douban.com/subject/2213597/">
                         <img alt="朗读者" src="https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1140984198.jpg" class="">
                     </a>
@@ -679,11 +640,50 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.5</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>265849人评价</span>
+                                <span>265909人评价</span>
                         </div>
 
                             <p class="quote">
                                 <span class="inq">当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。 </span>
+                            </p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="item">
+                <div class="pic">
+                    <em class="">160</em>
+                    <a href="https://movie.douban.com/subject/1397546/">
+                        <img alt="追随" src="https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p1150103377.jpg" class="">
+                    </a>
+                </div>
+                <div class="info">
+                    <div class="hd">
+                        <a href="https://movie.douban.com/subject/1397546/" class="">
+                            <span class="title">追随</span>
+                                    <span class="title">&nbsp;/&nbsp;Following</span>
+                                <span class="other">&nbsp;/&nbsp;致命追踪  /  跟踪</span>
+                        </a>
+
+
+                    </div>
+                    <div class="bd">
+                        <p class="">
+                            导演: 克里斯托弗·诺兰 Christopher Nolan&nbsp;&nbsp;&nbsp;主演: 杰里米·西奥伯德 Jeremy...<br>
+                            1998&nbsp;/&nbsp;英国&nbsp;/&nbsp;犯罪 悬疑 惊悚
+                        </p>
+
+                        
+                        <div class="star">
+                                <span class="rating45-t"></span>
+                                <span class="rating_num" property="v:average">8.9</span>
+                                <span property="v:best" content="10.0"></span>
+                                <span>74718人评价</span>
+                        </div>
+
+                            <p class="quote">
+                                <span class="inq">诺兰的牛逼来源于内心散发出的恐惧。</span>
                             </p>
                     </div>
                 </div>
@@ -719,7 +719,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.7</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>124106人评价</span>
+                                <span>124157人评价</span>
                         </div>
 
                             <p class="quote">
@@ -759,7 +759,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.7</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>114714人评价</span>
+                                <span>114761人评价</span>
                         </div>
 
                             <p class="quote">
@@ -799,7 +799,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.7</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>117739人评价</span>
+                                <span>117827人评价</span>
                         </div>
 
                     </div>
@@ -836,7 +836,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.7</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>103999人评价</span>
+                                <span>104020人评价</span>
                         </div>
 
                             <p class="quote">
@@ -876,7 +876,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.7</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>104623人评价</span>
+                                <span>104677人评价</span>
                         </div>
 
                             <p class="quote">
@@ -916,7 +916,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.5</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>164624人评价</span>
+                                <span>164676人评价</span>
                         </div>
 
                             <p class="quote">
@@ -930,16 +930,15 @@
             <div class="item">
                 <div class="pic">
                     <em class="">167</em>
-                    <a href="https://movie.douban.com/subject/2043546/">
-                        <img alt="秒速5厘米" src="https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p982896012.jpg" class="">
+                    <a href="https://movie.douban.com/subject/25917973/">
+                        <img alt="心迷宫" src="https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2275298525.jpg" class="">
                     </a>
                 </div>
                 <div class="info">
                     <div class="hd">
-                        <a href="https://movie.douban.com/subject/2043546/" class="">
-                            <span class="title">秒速5厘米</span>
-                                    <span class="title">&nbsp;/&nbsp;秒速5センチメートル</span>
-                                <span class="other">&nbsp;/&nbsp;秒速五厘米  /  秒速5公分</span>
+                        <a href="https://movie.douban.com/subject/25917973/" class="">
+                            <span class="title">心迷宫</span>
+                                <span class="other">&nbsp;/&nbsp;殡棺  /  The Coffin in the Mountain</span>
                         </a>
 
 
@@ -947,21 +946,18 @@
                     </div>
                     <div class="bd">
                         <p class="">
-                            导演: 新海诚 Makoto Shinkai&nbsp;&nbsp;&nbsp;主演: 水桥研二 Kenji Mizuhashi / 近藤好美 ...<br>
-                            2007&nbsp;/&nbsp;日本&nbsp;/&nbsp;动画 剧情 爱情
+                            导演: 忻钰坤 Yukun Xin&nbsp;&nbsp;&nbsp;主演: 霍卫民 Weimin Huo / 王笑天 Xiaotian Wang ...<br>
+                            2014&nbsp;/&nbsp;中国大陆&nbsp;/&nbsp;剧情 犯罪 悬疑
                         </p>
 
                         
                         <div class="star">
-                                <span class="rating4-t"></span>
-                                <span class="rating_num" property="v:average">8.4</span>
+                                <span class="rating45-t"></span>
+                                <span class="rating_num" property="v:average">8.6</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>273350人评价</span>
+                                <span>142525人评价</span>
                         </div>
 
-                            <p class="quote">
-                                <span class="inq">青春就是放弃和怀念。</span>
-                            </p>
                     </div>
                 </div>
             </div>
@@ -996,7 +992,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.6</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>180567人评价</span>
+                                <span>180673人评价</span>
                         </div>
 
                             <p class="quote">
@@ -1010,42 +1006,6 @@
             <div class="item">
                 <div class="pic">
                     <em class="">169</em>
-                    <a href="https://movie.douban.com/subject/25917973/">
-                        <img alt="心迷宫" src="https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2275298525.jpg" class="">
-                    </a>
-                </div>
-                <div class="info">
-                    <div class="hd">
-                        <a href="https://movie.douban.com/subject/25917973/" class="">
-                            <span class="title">心迷宫</span>
-                                <span class="other">&nbsp;/&nbsp;殡棺  /  The Coffin in the Mountain</span>
-                        </a>
-
-
-                            <span class="playable">[可播放]</span>
-                    </div>
-                    <div class="bd">
-                        <p class="">
-                            导演: 忻钰坤 Yukun Xin&nbsp;&nbsp;&nbsp;主演: 霍卫民 Weimin Huo / 王笑天 Xiaotian Wang ...<br>
-                            2014&nbsp;/&nbsp;中国大陆&nbsp;/&nbsp;剧情 犯罪 悬疑
-                        </p>
-
-                        
-                        <div class="star">
-                                <span class="rating45-t"></span>
-                                <span class="rating_num" property="v:average">8.6</span>
-                                <span property="v:best" content="10.0"></span>
-                                <span>142413人评价</span>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </li>
-        <li>
-            <div class="item">
-                <div class="pic">
-                    <em class="">170</em>
                     <a href="https://movie.douban.com/subject/1308857/">
                         <img alt="可可西里" src="https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2363208684.jpg" class="">
                     </a>
@@ -1071,7 +1031,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.6</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>120792人评价</span>
+                                <span>120838人评价</span>
                         </div>
 
                             <p class="quote">
@@ -1084,7 +1044,7 @@
         <li>
             <div class="item">
                 <div class="pic">
-                    <em class="">171</em>
+                    <em class="">170</em>
                     <a href="https://movie.douban.com/subject/1306249/">
                         <img alt="唐伯虎点秋香" src="https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p1946455272.jpg" class="">
                     </a>
@@ -1111,11 +1071,51 @@
                                 <span class="rating4-t"></span>
                                 <span class="rating_num" property="v:average">8.3</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>294588人评价</span>
+                                <span>294720人评价</span>
                         </div>
 
                             <p class="quote">
                                 <span class="inq">华太师是黄霑，吴镇宇四大才子之一。</span>
+                            </p>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="item">
+                <div class="pic">
+                    <em class="">171</em>
+                    <a href="https://movie.douban.com/subject/2043546/">
+                        <img alt="秒速5厘米" src="https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p982896012.jpg" class="">
+                    </a>
+                </div>
+                <div class="info">
+                    <div class="hd">
+                        <a href="https://movie.douban.com/subject/2043546/" class="">
+                            <span class="title">秒速5厘米</span>
+                                    <span class="title">&nbsp;/&nbsp;秒速5センチメートル</span>
+                                <span class="other">&nbsp;/&nbsp;秒速五厘米  /  秒速5公分</span>
+                        </a>
+
+
+                            <span class="playable">[可播放]</span>
+                    </div>
+                    <div class="bd">
+                        <p class="">
+                            导演: 新海诚 Makoto Shinkai&nbsp;&nbsp;&nbsp;主演: 水桥研二 Kenji Mizuhashi / 近藤好美 ...<br>
+                            2007&nbsp;/&nbsp;日本&nbsp;/&nbsp;动画 剧情 爱情
+                        </p>
+
+                        
+                        <div class="star">
+                                <span class="rating4-t"></span>
+                                <span class="rating_num" property="v:average">8.4</span>
+                                <span property="v:best" content="10.0"></span>
+                                <span>273440人评价</span>
+                        </div>
+
+                            <p class="quote">
+                                <span class="inq">青春就是放弃和怀念。</span>
                             </p>
                     </div>
                 </div>
@@ -1151,7 +1151,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.6</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>340448人评价</span>
+                                <span>340575人评价</span>
                         </div>
 
                     </div>
@@ -1187,7 +1187,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.8</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>77412人评价</span>
+                                <span>77469人评价</span>
                         </div>
 
                             <p class="quote">
@@ -1227,7 +1227,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.9</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>98922人评价</span>
+                                <span>98986人评价</span>
                         </div>
 
                     </div>
@@ -1264,7 +1264,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.5</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>275082人评价</span>
+                                <span>275174人评价</span>
                         </div>
 
                             <p class="quote">
@@ -1415,7 +1415,7 @@ var account_pop={open:function(o,e){e?referrer="?referrer="+encodeURIComponent(e
             existingNode = global.document.getElementsByTagName('script')[0],
             adSource = '//erebor.douban.com/',
             userId = '',
-            browserId = 'ThKSJ6P3Frk',
+            browserId = 'tbqXD7NKC3k',
             criteria = '3:/top250?start=150&amp;filter=',
             preview = '',
             debug = false,
@@ -1544,7 +1544,7 @@ for(var i = 0, l = accounts.length; i < l; i++) {
 
 
 
-    <!-- daisy6d-docker-->
+    <!-- sindar31b-docker-->
 
   <script>_SPLITTEST=''</script>
 </body>
