@@ -23,7 +23,7 @@ for i in range(0,250,25):
     for rating_num in ratingSet:
         ratingList.append(rating_num.string)
 
-    peopleSet = bsObj.findAll('div',attrs={'class':'star'})#用兄弟标签
+    # peopleSet = bsObj.findAll('div',attrs={'class':'star'}).next_siblings#用兄弟标签
 
 		# print(imageName)
 # print(onlyname)
@@ -31,12 +31,12 @@ for i in range(0,250,25):
 # print(spanSet)
 # print(ratingSet)
 # print(ratingList)
-print(peopleSet)
+# print(peopleSet)
 
 
-# filename = 'DoubanMoviesTop250.txt'
-# top_num = 1
-# with open (filename,'w') as file_object:
-#     for name in onlyname:
-#         file_object.write('Top'+ str(top_num) + ' ' + name+'\n')
-#         top_num += 1
+filename = 'DoubanMoviesTop250.csv'
+top_num = 1
+with open (filename,'w') as file_object:
+    for (name,rating_num) in zip(onlyname,ratingList):
+        file_object.write('Top'+ str(top_num) + ',' + name + ',' + str(rating_num) + '\n')
+        top_num += 1
