@@ -298,7 +298,7 @@
                   <span class="rating_nums">9.0</span>
 
                 <span class="pl">(
-                    36893人评价
+                    36895人评价
                 )</span>
               </div>
 
@@ -413,7 +413,7 @@
                   <span class="rating_nums">8.5</span>
 
                 <span class="pl">(
-                    38290人评价
+                    38292人评价
                 )</span>
               </div>
 
@@ -470,7 +470,7 @@
                   <span class="rating_nums">8.3</span>
 
                 <span class="pl">(
-                    39061人评价
+                    39062人评价
                 )</span>
               </div>
 
@@ -529,7 +529,7 @@
                   <span class="rating_nums">7.7</span>
 
                 <span class="pl">(
-                    40904人评价
+                    40905人评价
                 )</span>
               </div>
 
@@ -588,7 +588,7 @@
                   <span class="rating_nums">7.6</span>
 
                 <span class="pl">(
-                    41209人评价
+                    41210人评价
                 )</span>
               </div>
 
@@ -704,7 +704,7 @@
                   <span class="rating_nums">8.4</span>
 
                 <span class="pl">(
-                    38139人评价
+                    38141人评价
                 )</span>
               </div>
 
@@ -763,7 +763,7 @@
                   <span class="rating_nums">8.3</span>
 
                 <span class="pl">(
-                    38150人评价
+                    38154人评价
                 )</span>
               </div>
 
@@ -822,7 +822,7 @@
                   <span class="rating_nums">8.1</span>
 
                 <span class="pl">(
-                    38450人评价
+                    38452人评价
                 )</span>
               </div>
 
@@ -1224,7 +1224,7 @@
                   <span class="rating_nums">7.6</span>
 
                 <span class="pl">(
-                    39106人评价
+                    39110人评价
                 )</span>
               </div>
 
@@ -1283,7 +1283,7 @@
                   <span class="rating_nums">9.3</span>
 
                 <span class="pl">(
-                    33580人评价
+                    33589人评价
                 )</span>
               </div>
 
@@ -1400,7 +1400,7 @@
                   <span class="rating_nums">8.9</span>
 
                 <span class="pl">(
-                    32093人评价
+                    32096人评价
                 )</span>
               </div>
 
@@ -1458,7 +1458,7 @@
                   <span class="rating_nums">9.2</span>
 
                 <span class="pl">(
-                    33347人评价
+                    33349人评价
                 )</span>
               </div>
 
@@ -1574,7 +1574,7 @@
                   <span class="rating_nums">8.9</span>
 
                 <span class="pl">(
-                    33979人评价
+                    33980人评价
                 )</span>
               </div>
 
@@ -1631,7 +1631,7 @@
                   <span class="rating_nums">8.9</span>
 
                 <span class="pl">(
-                    29639人评价
+                    29640人评价
                 )</span>
               </div>
 
@@ -1689,7 +1689,7 @@
                   <span class="rating_nums">7.7</span>
 
                 <span class="pl">(
-                    37490人评价
+                    37491人评价
                 )</span>
               </div>
 
@@ -1885,43 +1885,9 @@ for(var i = 0, l = accounts.length; i < l; i++) {
 
 
 
-  <img src="https://img3.doubanio.com/pics/10k.jpg" style="display:none;" />
-  <img src="https://img3.doubanio.com/pics/10k.jpg" style="display:none;" />
-  <img src="https://www.douban.com/pics/10k.jpg" style="display:none;" />
-  <img src="https://img3.doubanio.com/pics/10k.jpg" style="display:none;" />
-
-<script type="text/javascript">
-$(window).load(function(){
-    if (get_cookie('ct')) return;
-    var submit_result = function(domain, key, cost) {
-        $.get("https://www.douban.com/misc/ct", {domain:domain, key:key, cost:cost});
-    };
-    var test = function(domain, url, key, timeout) {
-        var img = $('<img src="http://'+domain+'.douban.com'+url+'" style="display:none;" />');
-        var begin = new Date();
-        var t;
-        img.load(function() {
-            var cost = new Date() - begin;
-            clearTimeout(t);
-            submit_result(domain, key, cost);
-            set_cookie({ct:'y'});
-        });
-        $().append(img);
-        t = setTimeout(function(){
-            submit_result(domain, key, "timedout");
-            }, timeout);
-    };
-    test('img5', '/pics/ct-100k.png', 'ct-100k', 10000);
-    test('img3', '/pics/ct-100k.png', 'ct-100k', 10000);
-    test('www', '/pics/ct-100k.png', 'ct-100k', 10000);
-    test('img1', '/pics/ct-100k.png', 'ct-100k', 10000);
-});
-</script>
 
 
-
-
-    <!-- nain1-docker-->
+    <!-- sindar7c-docker-->
 
 </body>
 </html>

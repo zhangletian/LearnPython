@@ -1,3 +1,4 @@
+#coding=gbk
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
@@ -15,7 +16,11 @@ soup = BeautifulSoup(html.read())
 	#print(child)
 	
 spanSet = soup.findAll('span',attrs = {'class':'title'})
+
 print(spanSet)
+
+for span in spanSet:
+	print(span.get_text())
 
 
 #for span in spanSet:
@@ -24,5 +29,5 @@ print(spanSet)
 		#print(imageName)
 
 #fileHandle = open('DoubanMoviesTop250.txt','w+')
-#fileHandle.write(imageName + '\n')
+#fileHandle.write(imageName)
 #fileHandle.close()

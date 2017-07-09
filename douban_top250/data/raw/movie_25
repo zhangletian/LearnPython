@@ -998,7 +998,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.8</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>400497人评价</span>
+                                <span>400560人评价</span>
                         </div>
 
                             <p class="quote">
@@ -1078,7 +1078,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">9.1</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>180440人评价</span>
+                                <span>180461人评价</span>
                         </div>
 
                             <p class="quote">
@@ -1198,7 +1198,7 @@
                                 <span class="rating45-t"></span>
                                 <span class="rating_num" property="v:average">8.9</span>
                                 <span property="v:best" content="10.0"></span>
-                                <span>293300人评价</span>
+                                <span>293328人评价</span>
                         </div>
 
                             <p class="quote">
@@ -1429,7 +1429,7 @@ var account_pop={open:function(o,e){e?referrer="?referrer="+encodeURIComponent(e
             existingNode = global.document.getElementsByTagName('script')[0],
             adSource = '//erebor.douban.com/',
             userId = '',
-            browserId = 'KNG9re_xUDs',
+            browserId = 'F-DDw5_JxK0',
             criteria = '3:/top250?start=25&amp;filter=',
             preview = '',
             debug = false,

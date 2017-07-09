@@ -1430,7 +1430,7 @@ var account_pop={open:function(o,e){e?referrer="?referrer="+encodeURIComponent(e
             existingNode = global.document.getElementsByTagName('script')[0],
             adSource = '//erebor.douban.com/',
             userId = '',
-            browserId = 'POWVEW-ekS0',
+            browserId = 'LB4LZBWWyxs',
             criteria = '3:/top250?start=50&amp;filter=',
             preview = '',
             debug = false,
@@ -1559,7 +1559,7 @@ for(var i = 0, l = accounts.length; i < l; i++) {
 
 
 
-    <!-- sindar28a-docker-->
+    <!-- sindar17b-docker-->
 
   <script>_SPLITTEST=''</script>
 </body>
