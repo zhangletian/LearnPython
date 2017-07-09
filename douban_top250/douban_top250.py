@@ -1,6 +1,12 @@
+#encoding=utf-8
+#coding=utf-8
+
 from urllib import request
 from lxml import etree
-import codecs
+
+import io
+import sys
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='gb18030')
 
 def get_pages():
 	for i in range(0, 250, 25):
@@ -12,14 +18,12 @@ def get_pages():
 		url = 'https://book.douban.com/top250?start={start}'.format(start=i)
 		print(url)
 		request.urlretrieve(url, 'data/raw/book_{i}'.format(**locals()))
-
 get_pages()
-
 def process_data():
 	with open('data/movies.csv', 'w') as movie_csv:
 		print('rank,title,ratings,rating_num,meta', file=movie_csv)
 		for start in range(0, 250, 25):
-			doc = open('data/raw/movie_{start}'.format(**locals())).read().decode("utf-8")
+			doc = open('data/raw/movie_{start}'.format(**locals())).read()
 			tree = etree.HTML(doc)
 			titles = tree.xpath("/html/body//ol//a/span[1][@class='title']")
 			ratings = tree.xpath("//span[@class='rating_num']")
@@ -27,14 +31,13 @@ def process_data():
 			metas = tree.xpath("//div[@class='bd']/p[@class='']")
 			for i in range(25):
 				print(
-					start + i + 1, titles[i].text, ratings[i].text, rating_nums[i].text[:-3], 
+					start + i + 1, titles[i].text, ratings[i].text, rating_nums[i].text[:-3],
 					'/'.join(x.strip() for x in metas[i].itertext()),
 					sep=',', file=movie_csv)
-
 	with open('data/books.csv', 'w') as book_csv:
 		print('rank,title,ratings,rating_num,meta', file=book_csv)
 		for start in range(0, 250, 25):
-			doc = open('data/raw/book_{start}'.format(**locals())).read().decode("utf-8")
+			doc = open('data/raw/book_{start}'.format(**locals())).read()
 			tree = etree.HTML(doc)
 			titles = tree.xpath('//a[@title]')
 			ratings = tree.xpath("//span[@class='rating_nums']")

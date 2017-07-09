@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67af728-8366-49dd-b0cc-68e744ec2489" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douban_top250/data/books.csv" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/DoubanMoviesTop250.txt" afterPath="$PROJECT_DIR$/douban_top250/DoubanMoviesTop250.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/douban_spider.py" afterPath="$PROJECT_DIR$/douban_top250/douban_spider.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_0" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_100" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_100" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_125" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_125" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_150" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_150" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_175" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_175" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_200" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_200" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_225" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_225" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_25" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_25" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_50" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_50" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/book_75" afterPath="$PROJECT_DIR$/douban_top250/data/raw/book_75" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_0" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_100" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_100" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_125" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_125" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_150" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_150" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_175" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_175" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_200" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_200" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_225" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_225" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_25" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_25" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_50" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_50" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/data/raw/movie_75" afterPath="$PROJECT_DIR$/douban_top250/data/raw/movie_75" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/douban_top250.py" afterPath="$PROJECT_DIR$/douban_top250/douban_top250.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/douban_top250/douban_top250_2.py" afterPath="$PROJECT_DIR$/douban_top250/douban_top250_2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +38,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="douban_spider.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="douban_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/douban_top250/douban_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+            <state relative-caret-position="989">
+              <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
               <folding>
                 <element signature="e#13#26#0" expanded="true" />
               </folding>
@@ -31,10 +53,22 @@
       <file leaf-file-name="douban_top250_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/douban_top250/douban_top250_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="437">
+              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="e#1#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="douban_top250.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/douban_top250/douban_top250.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-465">
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding>
+                <element signature="e#31#57#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,8 +82,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/douban_top250/douban_top250_2.py" />
         <option value="$PROJECT_DIR$/douban_top250/douban_spider.py" />
+        <option value="$PROJECT_DIR$/douban_top250/douban_top250_2.py" />
+        <option value="$PROJECT_DIR$/douban_top250/douban_top250.py" />
       </list>
     </option>
   </component>
@@ -121,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.douban_spider">
+  <component name="RunManager" selected="Python.douban_top250">
     <configuration default="false" name="douban_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,6 +188,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban_top250/douban_top250_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="douban_top250" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douban_top250" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douban_top250/douban_top250.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,14 +275,16 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.douban_spider" />
       <item index="1" class="java.lang.String" itemvalue="Python.douban_top250_2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.douban_top250" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.douban_spider" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.douban_top250" />
         <item index="1" class="java.lang.String" itemvalue="Python.douban_top250_2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.douban_spider" />
       </list>
     </recent_temporary>
   </component>
@@ -280,10 +335,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/douban_top250/DoubanMovies250.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/douban_top250/douban_top250_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="437">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding>
             <element signature="e#1#35#0" expanded="true" />
           </folding>
@@ -292,10 +355,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/douban_top250/douban_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+        <state relative-caret-position="989">
+          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
           <folding>
             <element signature="e#13#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban_top250/douban_top250.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-465">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="e#31#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
