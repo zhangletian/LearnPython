@@ -14,6 +14,7 @@ while True:
     plt.axes().get_xaxis().set_visible(False)
     plt.axes().get_yaxis().set_visible(False)
 
+    plt.savefig('RandomWalk.png')
     plt.show()
 
     keep_running = input('Make another walk?(y/n):')
