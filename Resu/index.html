@@ -1,0 +1,236 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ZhangLetian</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal-default-theme.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal.min.js"></script>
+    <script src="static/js/script.js"></script>
+</head>
+
+<body>
+    <div class="container" id="cv">
+        <div class="side">
+            <div class="me">
+				<div class="portrait" style="background-image: url(&quot;http://i2.hdslb.com/user/1731/173191/13488831946a92567d446143b8.jpg&quot;);"></div>
+                <div class="remodal remodal-img" data-remodal-id="portrait-modal">
+                    <h3>请输入图片URL地址：</h3>
+                    <br/>
+                    <input type="text" id="avatar-url">
+                    <button data-remodal-action="confirm" class="remodal-confirm">确定</button>
+                </div>
+                <h1 id="username" >XXX</h1>
+                <h4 id="persona-tag" >电话：186********</h4>
+				<h4 id="email-tag" contenteditable="true">E-mail：letian****@**.com</h4>
+            </div>
+            <div class="profile info-unit">
+                <h2 class="info-header"><i class="iconfont icon-person"></i> <span class="info-title">求职意向</span></h2>
+                <hr>
+                <ul class="info-list">
+                    <li>
+                        <label class="left-label">XX经理</label></li>
+                </ul>
+            </div>
+            <div class="contact info-unit">
+                <h2 class="info-header"><i class="iconfont icon-call"></i> <span class="info-title">个人信息</span></h2>
+                <hr>
+                <ul class="info-list">
+                    <li>
+                        <label class="left-label">现住址</label><span class="label-value">广州</span></li>
+                    <li>
+                        <label class="left-label">性别</label><span class="label-value">男</span></li>
+                    <li>
+                        <label class="left-label">籍贯</label><span class="label-value">广东</span></li>
+                    <li>
+                        <label class="left-label">出生日期</label><span class="label-value">1990.01</span></li>
+                </ul>
+            </div>
+            <div class="skill info-unit">
+                <h2 class="info-header"><i class="iconfont icon-star"></i> <span class="info-title">技能点</span></h2>
+                <hr>
+                <ul class="progress-list">
+                    <li>
+                        <label class="left-label">Axure、Visio</label>
+                        <progress value="90" max="100"></progress>
+                    </li>
+                    <li>
+                        <label class="left-label">Xmind</label>
+                        <progress value="80" max="100"></progress>
+                    </li>
+					<li>
+                        <label class="left-label">产品文档</label>
+                        <progress value="80" max="100"></progress>
+                    </li>
+					<li>
+                        <label class="left-label">逻辑能力</label>
+                        <progress value="80" max="100"></progress>
+                    </li>
+					<li>
+                        <label class="left-label">交互设计能力</label>
+                        <progress value="80" max="100"></progress>
+                    </li>
+                    <li>
+                        <label class="left-label">Python</label>
+                        <progress value="50" max="100"></progress>
+                    </li>
+                </ul>
+            </div>
+            <div class="code info-unit">
+                <h2 class="info-header"><i class="iconfont icon-weixin"></i> <span class="info-title">个人微信</span></h2>
+                <hr>
+                <div class="weixin">
+                    <img src="static/image/weixin.png" alt="">
+
+                </div>
+            </div>
+            <div class="remodal remodal-img" data-remodal-id="weixin-modal">
+                <h3>请输入图片URL地址：</h3>
+                <br/>
+                <input type="text" id="weixin-url">
+                <button data-remodal-action="confirm" class="remodal-confirm">确定</button>
+            </div>
+        </div>
+        <div class="main">
+            <div class="education info-unit right-list">
+                <h2 class="info-header"><i class="iconfont icon-education"></i> <span class="info-title">教育经历</span></h2>
+                <hr>
+                <ul class="experience-list">
+                    <li>
+                        <h3>XXX大学 - XX（本科）2009-2013</h3>
+                        <p>
+                            主修课程：C/C++、线性代数、概率论与数理统计、模电、数电、信号与系统、DSP、SOC理论与应用、微电子器件.
+                        </p>
+                    </li>
+                </ul>
+            </div>
+            <div class="work info-unit right-list">
+                <h2 class="info-header"><i class="iconfont icon-work"></i> <span class="info-title">工作经历</span></h2>
+                <hr>
+                <ul class="experience-list">
+                    <li>
+                        <h3>2015.01-2017.01 &nbsp;&nbsp;&nbsp;&nbsp;XXX公司 &nbsp;&nbsp;&nbsp;&nbsp;XX经理</h3>
+                        <p>
+							以XX角色，主导了***平台V1.0、***V1.0的项目策划到上线运营
+                        </p>
+                        <p>
+							（1）产品规划：参与公司年度业务计划工作，收集及整理行业数据，确定产品业务路标、版本迭代计划等
+                        </p>
+                        <p>
+							（2）产品设计：完成2个项目的需求设计工作，梳理业务结构及运营流程，输出Axure原型及PRD
+                        </p>
+                        <p>
+							（3）项目跟踪：跟进开发进度，与各部门协调细节问题，把控项目质量
+                        </p>
+                        <p>
+							（4）产品运营：平台上线后，输出运营文档并组织各部门的培训，同时收集Bug及需求反馈，安排补丁上线
+                        </p>
+						</li>
+                    <li>
+                        <h3>2014.01-2015.01 &nbsp;&nbsp;&nbsp;&nbsp;XXX公司 &nbsp;&nbsp;&nbsp;&nbsp;产品专员</h3>
+                        <p>
+							（1）产品设计：完成5个新功能的产品策划工作，梳理流程，输出Axure原型及PRD
+                        </p>
+                        <p>
+							（2）项目跟踪：跟进开发进度，与各部门协调各种细节问题，把控项目质量
+                        </p>
+                        <p>
+							（3）项目验收：完成每个功能的验收，确定上线
+                        </p>						
+                    </li>
+                </ul class="experience-list">
+            </div>
+            <div class="project info-unit right-list">
+                <h2 class="info-header"><i class="iconfont icon-project"></i> <span class="info-title">项目经验</span></h2>
+                <hr>
+                <ul class="experience-list">
+                    <li>
+                        <h3>XX平台V1.0项目 &nbsp;&nbsp;&nbsp;&nbsp;XX经理 &nbsp;&nbsp;&nbsp;&nbsp;2016.01-2017.01</h3>
+                        <p>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为拓展业务，公司决定开发公司的首个XX平台：XX平台。在此项目中，我担任XX经理，负责完成平台整体需求分析、各部门之间的协调沟通，推动平台上线后，为各职能部门提供培训。最终XX于12月发布上线www.*****.com，并投入运营。 
+                        </p>
+                        <p>
+							在此项目中，我完成的工作如下：
+                        </p>
+                        <p>
+							（1）策划工作：协助BRD、MRD的完成，并确定前后台的职能及业务运营流程
+                        </p>
+                        <p>
+							（2）需求工作：独立负责前台的原型及PRD、界面优化，并协助后台的流程梳理 
+                        </p>
+                        <p>
+							（3）发布及上线：确定上线资源，交付产品文档（产品白皮书、标准报价、上线验证计划等） 
+                        </p>
+                        <p>
+							（4）平台的运营：输出运营文档（内部职能运营手册，销售指导手册），完成各职能的培训，并跟进验证期间的Bug修复及补丁上线
+                        </p>
+                    </li>
+                    <li>
+                        <h3>XX项目 &nbsp;&nbsp;&nbsp;&nbsp;产品经理 &nbsp;&nbsp;&nbsp;&nbsp;2016.01-2016.01</h3>
+                        <p>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为更好地宣导公司产品、市场活动策划，并为XX平台提供入口，事业部决定上线XX。我完成原型并推动文案及设计图的优化，XX已上线发布：www.*****.com 
+                        </p>
+                        <p>
+                            在此项目中，我完成的工作如下：
+                        </p>
+                        <p>
+                            （1）确定XX的整体页面结构，并完整输出Axure原型；
+                        </p>
+                        <p>
+                            （2）输出官网所有页面文案，并组织产品、市场、设计部门完成优化； 
+                        </p>						
+                        <p>
+                            （3）跟进设计图的优化及确定。
+                        </p>				
+                    </li>
+                    <li>
+                        <h3>公司B2B电商平台5个新功能策划 &nbsp;&nbsp;&nbsp;&nbsp;产品专员 &nbsp;&nbsp;&nbsp;&nbsp;2014.01-2015.01</h3>
+                        <p>
+                            公司要上线全新的B2B电商平台，我完成了5个策划工作，最终有4个功能已在平台发布上线：www.*****.com
+                        </p>
+                        <p>
+                            XX优化、XX策划、XX策划、XX策划、XX策划
+                        </p>
+                        <p>
+                            在此项目中，我完成的工作如下：
+                        </p>
+                        <p>
+                            （1）根据业务要求，确定功能流程，输出Axure原型及PRD
+                        </p>
+                        <p>
+                            （2）跟进开发计划，解决各部门的细节问题
+                        </p>
+                        <p>
+                            （3）完成功能验收，确认上线
+                        </p>						
+						
+                    </li>
+                </ul>
+            </div>
+            <div class="aboutme info-unit right-paragraph">
+                <h2 class="info-header"><i class="iconfont icon-flower"></i> <span class="info-title">我的优势</span></h2>
+                <hr>
+                <ul class="experience-list">
+					<li>
+						<h3>独立负责产品从0到1</h3>
+					<p>
+						具备从0-1负责产品规划、设计和项目推动经验，熟悉互联网产品整体实现过程
+					</p>
+					</li>
+					<li>
+					<h3>持续的学习能力</h3>
+					<p>
+						至今完整阅读30本产品工作相关书籍
+					</p>
+					</li>
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
